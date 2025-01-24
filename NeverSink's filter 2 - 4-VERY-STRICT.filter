@@ -1716,6 +1716,39 @@ Show # %H5 $type->gems->uncut $tier->skill19
 	PlayEffect Cyan
 	MinimapIcon 1 Cyan Triangle
 
+Show # %H5 $type->gems->uncut $tier->skill19
+	ItemLevel 18
+	BaseType == "Uncut Skill Gem"
+	SetFontSize 42
+	SetTextColor 20 240 240
+	SetBorderColor 20 240 240
+	SetBackgroundColor 6 0 60
+	PlayAlertSound 2 300
+	PlayEffect Cyan
+	MinimapIcon 1 Cyan Triangle
+
+Show # %H5 $type->gems->uncut $tier->skill19
+	ItemLevel 17
+	BaseType == "Uncut Skill Gem"
+	SetFontSize 42
+	SetTextColor 20 240 240
+	SetBorderColor 20 240 240
+	SetBackgroundColor 6 0 60
+	PlayAlertSound 2 300
+	PlayEffect Cyan
+	MinimapIcon 1 Cyan Triangle
+
+Show # %H5 $type->gems->uncut $tier->skill19
+	ItemLevel 16
+	BaseType == "Uncut Skill Gem"
+	SetFontSize 42
+	SetTextColor 20 240 240
+	SetBorderColor 20 240 240
+	SetBackgroundColor 6 0 60
+	PlayAlertSound 2 300
+	PlayEffect Cyan
+	MinimapIcon 1 Cyan Triangle
+
 # All gems during campaign with sounds
 
 Show # %H5 $type->gems->uncut $tier->spiritcampaign
