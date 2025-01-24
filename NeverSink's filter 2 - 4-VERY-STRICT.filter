@@ -2854,7 +2854,7 @@ Show # %H4 $type->miscmapitemsextra $tier->trialkeysanctumhigh
 	PlayEffect Purple Temp
 	MinimapIcon 1 White Hexagon
 
-Hide # %H3 $type->miscmapitemsextra $tier->trialkeysanctumlow
+Show # %H3 $type->miscmapitemsextra $tier->trialkeysanctumlow
 	ItemLevel <= 74
 	BaseType == "Djinn Barya" "Test of Cunning Barya" "Test of Strength Barya" "Test of Time Barya" "Test of Will Barya"
 	SetFontSize 40
@@ -2885,7 +2885,7 @@ Show # %H4 $type->miscmapitemsextra $tier->trialkeyultimatumhigh
 	PlayEffect Purple Temp
 	MinimapIcon 1 White Hexagon
 
-Hide # %H3 $type->miscmapitemsextra $tier->trialkeyultimatumlow
+Show # %H3 $type->miscmapitemsextra $tier->trialkeyultimatumlow
 	ItemLevel <= 74
 	BaseType == "Inscribed Ultimatum"
 	SetFontSize 40
