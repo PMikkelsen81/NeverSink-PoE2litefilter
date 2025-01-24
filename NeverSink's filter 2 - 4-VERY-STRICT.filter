@@ -1716,9 +1716,9 @@ Show # %H5 $type->gems->uncut $tier->skill19
 	PlayEffect Cyan
 	MinimapIcon 1 Cyan Triangle
 
-Show # %H5 $type->gems->uncut $tier->skill19
+Show # %H5 $type->gems->uncut $tier->spirit19
 	ItemLevel 18
-	BaseType == "Uncut Skill Gem"
+	BaseType == "Uncut Spirit Gem"
 	SetFontSize 42
 	SetTextColor 20 240 240
 	SetBorderColor 20 240 240
@@ -1729,7 +1729,7 @@ Show # %H5 $type->gems->uncut $tier->skill19
 
 Show # %H5 $type->gems->uncut $tier->skill19
 	ItemLevel 17
-	BaseType == "Uncut Skill Gem"
+	BaseType == "Uncut Spirit Gem"
 	SetFontSize 42
 	SetTextColor 20 240 240
 	SetBorderColor 20 240 240
@@ -1740,7 +1740,7 @@ Show # %H5 $type->gems->uncut $tier->skill19
 
 Show # %H5 $type->gems->uncut $tier->skill19
 	ItemLevel 16
-	BaseType == "Uncut Skill Gem"
+	BaseType == "Uncut Spirit Gem"
 	SetFontSize 42
 	SetTextColor 20 240 240
 	SetBorderColor 20 240 240
