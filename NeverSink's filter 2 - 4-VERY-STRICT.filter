@@ -2843,7 +2843,7 @@ Show # %HS4 $type->miscmapitemsextra $tier->trialkeysanctumtop
 	MinimapIcon 1 White Hexagon
 
 Show # %H4 $type->miscmapitemsextra $tier->trialkeysanctumhigh
-	ItemLevel >= 75
+	ItemLevel >= 70
 	ItemLevel <= 79
 	BaseType == "Djinn Barya" "Test of Cunning Barya" "Test of Strength Barya" "Test of Time Barya" "Test of Will Barya"
 	SetFontSize 42
@@ -2855,7 +2855,7 @@ Show # %H4 $type->miscmapitemsextra $tier->trialkeysanctumhigh
 	MinimapIcon 1 White Hexagon
 
 Show # %H3 $type->miscmapitemsextra $tier->trialkeysanctumlow
-	ItemLevel <= 74
+	ItemLevel <= 69
 	BaseType == "Djinn Barya" "Test of Cunning Barya" "Test of Strength Barya" "Test of Time Barya" "Test of Will Barya"
 	SetFontSize 40
 	SetTextColor 200 75 200 255
